@@ -26,8 +26,3 @@ print(&quot;erro: número é zero&quot;)
 else:
 print(&quot;números inválidos&quot;)
 
-7.Verifique se ele está funcionando
-RUN (debug, run)
-8.Envie ele para seu repositório
-Commit com mensagem e Pull
-9.Veja na versão web no GitHub se ele foi enviado de fato
